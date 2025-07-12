@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+jinja2
+python-dotenv
+openai
+langchain
+chromadb
+
+
+google-generativeai
+langchain-huggingface
+transformers
+huggingface-hub
+numpy
+scikit-learn
